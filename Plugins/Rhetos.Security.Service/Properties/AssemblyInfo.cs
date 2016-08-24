@@ -48,3 +48,11 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
+
+[assembly: AssemblyCompany("Omega software")]
+[assembly: AssemblyCopyright("Copyright (C) Omega software 2016")]
+[assembly: AssemblyTrademark("")]
+
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0-dev")]
