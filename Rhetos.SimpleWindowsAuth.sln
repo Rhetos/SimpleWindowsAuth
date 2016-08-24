@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhetos.Security.Service", "Source\Rhetos.Security.Service\Rhetos.Security.Service.csproj", "{9985B38B-F5D3-4312-992E-7D3F98B31A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhetos.SimpleWindowsAuth", "Source\Rhetos.SimpleWindowsAuth\Rhetos.SimpleWindowsAuth.csproj", "{3B32F187-F203-4147-9983-814A2A1045E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9985B38B-F5D3-4312-992E-7D3F98B31A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9985B38B-F5D3-4312-992E-7D3F98B31A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9985B38B-F5D3-4312-992E-7D3F98B31A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9985B38B-F5D3-4312-992E-7D3F98B31A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B32F187-F203-4147-9983-814A2A1045E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B32F187-F203-4147-9983-814A2A1045E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B32F187-F203-4147-9983-814A2A1045E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B32F187-F203-4147-9983-814A2A1045E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

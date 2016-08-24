@@ -20,9 +20,9 @@
     <file src="DataMigration\**\*" target="DataMigration" />
     <file src="DslScripts\**\*" target="DslScripts" />
     <file src="Resources\**\*" target="Resources" />
-    <file src="Plugins\Rhetos.SimpleWindowsAuth\bin\Debug\Rhetos.SimpleWindowsAuth.dll" target="lib\net451" />
-    <file src="Plugins\Rhetos.SimpleWindowsAuth\bin\Debug\Rhetos.SimpleWindowsAuth.pdb" target="lib\net451" />
-    <file src="Plugins\Rhetos.Security.Service\bin\Debug\Rhetos.Security.Service.dll" target="lib\net451" />
-    <file src="Plugins\Rhetos.Security.Service\bin\Debug\Rhetos.Security.Service.pdb" target="lib\net451" />
+    <file src="Source\Rhetos.SimpleWindowsAuth\bin\Debug\Rhetos.SimpleWindowsAuth.dll" target="lib\net451" />
+    <file src="Source\Rhetos.SimpleWindowsAuth\bin\Debug\Rhetos.SimpleWindowsAuth.pdb" target="lib\net451" />
+    <file src="Source\Rhetos.Security.Service\bin\Debug\Rhetos.Security.Service.dll" target="lib\net451" />
+    <file src="Source\Rhetos.Security.Service\bin\Debug\Rhetos.Security.Service.pdb" target="lib\net451" />
   </files>
 </package>
