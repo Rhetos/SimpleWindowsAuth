@@ -7,7 +7,7 @@
     <owners>Omega software</owners>
     <licenseUrl>http://opensource.org/licenses/AGPL-3.0</licenseUrl>
     <projectUrl>https://github.com/rhetos/rhetos</projectUrl>
-    <description>SimpleWindowsAuth is a DSL package for Rhetos development platform.
+    <description>SimpleWindowsAuth is a plugin package for Rhetos development platform.
       It provides a simple authorization system and Windows authentication to Rhetos server applications.</description>
     <copyright>Copyright Omega software 2015</copyright>
     <tags>Rhetos plugin</tags>
